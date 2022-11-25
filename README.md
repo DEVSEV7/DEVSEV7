@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DEVSEV7
-- 👀 I’m interested in ... Front End Development
-- 🌱 I’m currently learning ... HTML CSS and JS using Ghost CMS a Headless Blogging Solution
-- 💞️ I’m looking to collaborate on ... anything related tot he above.
-- 📫 How to reach me ... NA
+- 👀 I’m a Game Developer
+- 🌱 I’m currently learning ... everything
+- 💞️ I’m looking to collaborate on ... anything
+- 📫 How to reach me ... Youtube
 
 <!---
 DEVSEV7/DEVSEV7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
